@@ -1,8 +1,12 @@
 # HeapProgram
 This code reserved for my exercise, feel free to use it
+
 Muhammad Ridwan Kurniawan | 24106050043
+
 Link Video Testing: https://youtu.be/mYQdbXN80BM
+
 AI yang digunakan: Gemini PRO
+
 **Prompt: **
 Generate program Heap Data Structure simple menggunakan bahasa Java (tanpa framework tambahan) dengan ketentuan berikut:
 
